@@ -7,5 +7,5 @@ parameters:
 
     # for "split" command
     directories_to_repositories:
-        packages/gdpr: 'git@https://github.com/ian-nisbet/gdpr.git'
-        packages/social-auth: 'git@https://github.com/ian-nisbet/social-auth.git'
+        packages/gdpr: 'git@github.com/ian-nisbet//gdpr.git'
+        packages/social-auth: 'git@github.com/ian-nisbet//social-auth.git'
